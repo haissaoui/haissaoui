@@ -1,5 +1,3 @@
-### Hi there 👋
-I'm just a human trying to become a Python-obsessed, data-crunching NLP master. If you need me, I'll be buried in Jupyter notebooks and endless cups of coffee.  
 
 
 <!--
