@@ -1,8 +1,8 @@
-name: Update Language Stats
+name: Update Language Statistics
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # allows manual trigger too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
