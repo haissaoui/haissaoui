@@ -2,7 +2,7 @@
 I'm just a human trying to become a Python-obsessed, data-crunching NLP master. If you need me, I'll be buried in Jupyter notebooks and endless cups of coffee.  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haissaoui)](https://github.com/haissaoui/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haissaoui)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **haissaoui/haissaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
