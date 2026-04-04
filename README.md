@@ -1,4 +1,7 @@
+## 🧑‍💻 Languages I Use
 
+![Language Pie weighted](./stats/pie_by_weighted.png)
+![Language Pie by line](./stats/pie_by_lines.png)
 
 <!--
 **haissaoui/haissaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
